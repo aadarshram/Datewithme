@@ -1,1 +1,1 @@
-Explored the basics of HTML, CSS, and JavaScript with a playful twist on a dating-themed website. Challenged visitors with a witty button that cheekily dodged clicks by moving away unpredictably on hover.
+Explored the basics of HTML, CSS, and JavaScript with a playful twist on a dating-themed website. Challenged visitors with a witty button that cheekily dodges clicks by moving away unpredictably on hover.
